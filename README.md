@@ -2,6 +2,13 @@
 
 This project features a two-sensor **Line Follower Robot** powered by an Arduino. The robot uses infrared (IR) sensors to detect a dark line on a light surface (or vice versa) and adjusts its motors in real-time to stay on track. It includes logic for forward movement, directional correction, and an "in-place" pivot to handle sharp turns or line-loss scenarios.
 
+<img width="6000" height="8000" alt="2" src="https://github.com/user-attachments/assets/dbd981f1-897e-4109-b7ea-3dd6cf3043a6" />
+<img width="6000" height="8000" alt="3" src="https://github.com/user-attachments/assets/8d148665-89e3-4c8b-9752-188d85098a9f" />
+<img width="6000" height="8000" alt="4" src="https://github.com/user-attachments/assets/c707e6f5-e85c-4653-ba9f-84a2138edcc4" />
+<img width="6000" height="8000" alt="5" src="https://github.com/user-attachments/assets/3309aaad-7839-48f1-88e6-c0921917c3a7" />
+<img width="6000" height="8000" alt="1" src="https://github.com/user-attachments/assets/fcd45568-e16c-4656-b215-d88473f1c3ae" />
+
+
 
 ## Hardware Components
 
